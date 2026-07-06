@@ -322,4 +322,6 @@ export default function DecisionCapture() {
           ))}
         </div>
       </div>
-    
+    </div>
+  );
+}
